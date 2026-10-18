@@ -1,0 +1,11 @@
+# Board election, 2026: choose one chair.
+candidate Alice
+candidate Bob
+candidate Carol
+candidate Dan
+
+4 x Alice > Bob > Carol > Dan
+3 x Bob > Carol > Alice > Dan
+3 x Carol > Bob > Dan > Alice
+2 x Dan > Carol > Bob > Alice
+1 x Carol = Dan > Bob > Alice    # equal rankings share a rank
